@@ -3,8 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-C:\Users\goktas\Desktop\work\maslak\.coveralls.yml
-
 # User-specific files
 *.suo
 *.user
@@ -329,3 +327,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
+.coveralls.yml
