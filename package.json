@@ -4,7 +4,16 @@
   "description": "The Maslak library converts your flat object into key and value object and then can sort it by given array.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test:clean": "rimraf ./coverage",
+    "test": "jest --coverage",
+    "test:watch": "jest --watchAll",
+    "test:watchRelated": "jest --watch",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
   },
   "repository": {
     "type": "git",
@@ -13,7 +22,10 @@
   "author": "Ertuğrul Göktuğ Göktaş",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.1.0"
+    "babel-jest": "^23.4.0",
+    "babel-preset-env": "^1.7.0",
+    "coveralls": "^3.0.2",
+    "jest": "^23.4.1"
   },
   "directories": {
     "lib": "lib",
