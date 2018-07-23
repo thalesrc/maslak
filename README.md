@@ -1,6 +1,7 @@
 # Maslak
 [![Travis](https://travis-ci.org/goktuggoktas/maslak.svg?branch=master)](https://travis-ci.org/goktuggoktas/maslak)
 
+[![Coverage Status](https://coveralls.io/repos/github/goktuggoktas/maslak/badge.svg?branch=master)](https://coveralls.io/github/goktuggoktas/maslak?branch=master)
 
 The Maslak library converts your flat object to key and value objects, and then sort it by the given array.
 It's **simple** & **basic**.
