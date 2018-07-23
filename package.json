@@ -1,6 +1,6 @@
 {
   "name": "maslak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Maslak library converts your flat object into key and value object and then can sort it by given array.",
   "main": "index.js",
   "scripts": {
