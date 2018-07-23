@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goktuggoktas/maslak"
+  },
   "author": "Ertuğrul Göktuğ Göktaş",
   "license": "ISC",
   "devDependencies": {
