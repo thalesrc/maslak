@@ -1,6 +1,6 @@
 # Maslak
 
-![alt text](https://github.com/gen-tech/maslak/logo.png "Maslak-Logo")
+![alt text](https://github.com/gen-tech/maslak/blob/master/logo.png "Maslak-Logo")
 
 [![Travis](https://travis-ci.org/goktuggoktas/maslak.svg?branch=master)](https://travis-ci.org/goktuggoktas/maslak)
 [![Coverage Status](https://coveralls.io/repos/github/goktuggoktas/maslak/badge.svg?branch=master)](https://coveralls.io/github/goktuggoktas/maslak?branch=master)
