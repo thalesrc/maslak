@@ -3,7 +3,7 @@
 ![alt text](https://github.com/gen-tech/maslak/blob/master/logo.png "Maslak-Logo")
 
 [![Travis](https://travis-ci.org/goktuggoktas/maslak.svg?branch=master)](https://travis-ci.org/goktuggoktas/maslak)
-[![Coverage Status](https://coveralls.io/repos/github/goktuggoktas/maslak/badge.svg?branch=master)](https://coveralls.io/github/goktuggoktas/maslak?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/gen-tech/maslak/badge.svg?branch=master)](https://coveralls.io/github/gen-tech/maslak?branch=master)
 [![npm](https://img.shields.io/npm/dw/maslak.svg)](https://www.npmjs.com/package/maslak)
 
 The Maslak library converts your flat object to key and value objects, and then sort it by the given array.
