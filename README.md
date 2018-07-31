@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/gen-tech/maslak/blob/master/logo.png "Maslak-Logo")
 
-[![Travis](https://travis-ci.org/goktuggoktas/maslak.svg?branch=master)](https://travis-ci.org/goktuggoktas/maslak)
+[![Travis](https://travis-ci.org/gen-tech/maslak.svg?branch=master)](https://travis-ci.org/gen-tech/maslak)
 [![Coverage Status](https://coveralls.io/repos/github/gen-tech/maslak/badge.svg?branch=master)](https://coveralls.io/github/gen-tech/maslak?branch=master)
 [![npm](https://img.shields.io/npm/dw/maslak.svg)](https://www.npmjs.com/package/maslak)
 
